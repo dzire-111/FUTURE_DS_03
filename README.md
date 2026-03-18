@@ -2,6 +2,10 @@
 Desire Sharma
 Data Analytics Internship Project
 
+## Project Files
+Due to file size limitations, the main project file is available here:
+[Download Dashboard](https://drive.google.com/file/d/1MQaNmxFMBYL9nWHTG8EaDZ0Zt9wJOcyd/view?usp=sharing)
+
 # Marketing Funnel & Conversion Analysis
 ## Project Overview
 
